@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="stylesheet" href="/assets/css/normalize.css"/>
+	<link rel="stylesheet" href="/assets/css/open-color.css"/>
+	<link rel="stylesheet" href="/assets/css/fermi/styles.css"/>
+
+  <script async src="https://use.fontawesome.com/releases/v6.0.0/js/all.js"></script>
+
+  
+
+</head>
+
+
+  <body>
+    <div class="body-container">
+      <div class="wrapper">
+
+        <header class="masthead">
+  <h3 class="masthead-title">
+    <a href="/">Archdeacon Doherty Film Collection</a>
+  </h3>
+  
+
+  
+    <nav class="nav">
+      <ul class="nav-list">
+        
+          <li class="nav-item">
+            <a class="" href="/">
+              Home
+            </a>
+          </li>
+        
+          <li class="nav-item">
+            <a class="" href="/about.html">
+              About
+            </a>
+          </li>
+        
+          <li class="nav-item">
+            <a class="" href="/archive.html">
+              Archive
+            </a>
+          </li>
+        
+      </ul>
+    </nav>
+  
+</header>
+
+
+        <main>
+          <article class="post">
+  <!--
+  <div class="post-meta post-meta-top">
+    <div class="post-category">
+      
+        
+        <i class="fa-solid fa-folder"></i>
+        
+          <span></span>
+        
+      
+    </div>
+
+    <div class="post-time-author">
+      <time datetime="2023-02-28T16:22:02+00:00">
+        <i class="fa-solid fa-calendar-days"></i> 28 Feb 2023
+      </time></div>
+  </div>
+-->
+
+  <h1 class="post-title">Welcome to Jekyll!</h1>
+
+  
+    <figure class="post-cover" style="background-image: url(/screenshot.jpg)">
+    </figure>
+  
+
+  <div class="post-content">
+    You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+Jekyll requires blog post files to be named according to the following format:
+
+`YEAR-MONTH-DAY-title.MARKUP`
+
+Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+Jekyll also offers powerful support for code snippets:
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
+
+  </div>
+
+  
+</article>
+
+<aside class="related">
+    <h3>Related Posts</h3>
+    <ul class="related-posts"><li>
+              <a href="/jekyll/update/2023/02/28/About.html">Archdeacon Doherty Film collection</a>
+              <small><time datetime="2023-02-28T20:29:02+00:00">28 Feb 2023</time></small>
+            </li><li>
+              <a href="/jekyll/update/2023/02/28/Reels.html">Conservation Report</a>
+              <small><time datetime="2023-02-28T20:29:02+00:00">28 Feb 2023</time></small>
+            </li><li>
+              <a href="/jekyll/update/2023/02/28/Filling.html">Filling the Four Penny Seats</a>
+              <small><time datetime="2023-02-28T16:22:02+00:00">28 Feb 2023</time></small>
+            </li></ul>
+  </aside>
+
+
+
+        </main>
+
+        <footer class="footer">
+  
+
+  <div class="footer-bottom">
+    <p class="copyright">
+      &copy; <time datetime="2023-03-01T13:05:24+00:00">2023</time>. All rights reserved. 
+    </p>
+
+
+<!--
+    <p class="power">
+      Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> & <a href="https://github.com/v4vong/jekyll-theme-fermi" target="_blank">Fermi</a>
+    </p>
+  -->
+
+<p class="power">
+      Website by Paddy McHugh
+    </p>
+
+  </div>
+</footer>
+
+
+      </div>
+    </div>
+
+    
+
+    
+
+  </body>
+</html>
